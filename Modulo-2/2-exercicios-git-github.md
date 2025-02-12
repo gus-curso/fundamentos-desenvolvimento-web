@@ -23,7 +23,7 @@ Faça `commits` das alterações que você fizer no código regularmente, pois a
 
 ## Requisitos do exercício
 
-### `1 - Clone o repositório`
+### `1 - Faça fork e clone o repositório em seu computador`
 
 ---
 
@@ -70,16 +70,14 @@ Exemplo:
 
 ```js
 5 hard skills que quero aprimorar: 
-- Comunicação
-- Resiliência
-- Trabalhar em equipe
-- Empatia
-- Escuta ativa
+- HTML
+- CSS
+- JavaScript
+- Lógica de programação
+- Algoritmos
 ```
 
 ### `7 - Abra um Pull Request`
 
-Depois de concluído todas as etapas anteriores, você deverá abrir um PR neste repositório.
-
->PS. NÃO é necessário fazer o `merge` da branch 😉
+Depois de concluído todas as etapas anteriores, você deverá abrir um PR neste repositório e fazer o _merge_ com a branch _main_.
  
